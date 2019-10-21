@@ -1,39 +1,37 @@
 'use strict'
 
+
+//SWITCH
+
 var edad = 18;
+var imprime = "";
 
-var imprime ="";
-
-
-switch (edad){
-
-
-case 18:
+switch(edad){
+    case 18:
     imprime = "Acabas de cumplir la mayoria de edad";
+    break;   
 
-    break;
+    case 18:
+    imprime = "Acabas de cumplir la mayoria de edad";
+    break; 
 
-case 25:
-        imprime = "Ya eres un adulto";
+    case 18:
+    imprime = "";
+    break; 
 
-    break;
+    case 18:
+    imprime = "";
+    break; 
 
-case 40:
-    imprime = "Cuidado con la crisis de los 40";
+    case 18:
+    imprime = "";
+    break; 
+    
+    case 18:
+    imprime = "";
+    break; 
 
-break;
-
-case 70:
-    imprime = "Llegar a esa edad es un lujo";
-
-break;
-
-default:
-    imprime = "No hay mensajes a mostrar para tu edad ";
-
-
-
+    case 18:
+    imprime = "";
+    break; 
 }
-
-console.log(imprime);
-
