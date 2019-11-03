@@ -9,6 +9,11 @@ Mostrar todos los numeros divisores de un n[umero instroducido por el usuario
 
 */
 
+
+
+/**
+ Un numero es divisor de otro numero cuando al dividirlos entre sis da como resultado cero
+ */
 var numero = parseInt(prompt("Ingresa por favor un numero", 1));
 
 

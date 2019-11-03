@@ -2,7 +2,7 @@
 
 
 //SWITCH
-
+    
 var edad = 18;
 var imprime = "";
 
